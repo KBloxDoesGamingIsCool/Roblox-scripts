@@ -1,4 +1,4 @@
--[[
+--[[
 This is my first ever script!
 Pls enjoy it!
 
