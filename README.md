@@ -25,7 +25,7 @@ Touch the road (Its doesn't work on some cars)
 Anti-Afk (Keypressing)
 Script:
 ```
-loadstring(game:HttpGet("", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Driving%20Empire%20script%20%232.lua", true))()
 ```
 
 Other scripts are coming soon!
