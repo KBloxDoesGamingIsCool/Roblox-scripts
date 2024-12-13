@@ -1,6 +1,6 @@
 # KBlox Roblox script
 
-⚠️SCRIPTS ARE NOT OWNED BY ME, THESE ARE JUST REUPLOADS⚠️
+⚠️SOME SCRIPTS ARE NOT OWNED BY ME, SOME OF THEM ARE JUST REUPLOADS⚠️
 
 Welcome to the KBlox's scripts!
 
@@ -25,6 +25,19 @@ Anti-Afk (Keypressing)
 Script:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Driving%20Empire%20script%20%232.lua", true))()
+```
+
+Youtube Simulator Z Inf SD script
+
+Features:
+
+Infinite SD
+
+How this works:
+If you want this to be your video, it requires the Internet Stick to earn money. If your wondering why you need a Internet stick, cause Inter Sticks can provide more SD which has the Lightning logo and it is used for extra SD.
+Script:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Youtube%20Simulator%20Z%20Inf%20SD%20script"))()
 ```
 
 Other scripts are coming soon!
