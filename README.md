@@ -40,4 +40,15 @@ Script:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Youtube%20Simulator%20Z%20Inf%20SD%20script"))()
 ```
 
+Pls donate script
+
+Features:
+Auto Beg,
+Auto TY, 
+spin on donation,
+jump on donation, 
+sing on donation 
+(More at the script)
+
+
 Other scripts are coming soon!
