@@ -49,6 +49,10 @@ spin on donation,
 jump on donation, 
 sing on donation 
 (More at the script)
+script:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Pls%20donate%20script"))()
+```
 
 
 Other scripts are coming soon!
