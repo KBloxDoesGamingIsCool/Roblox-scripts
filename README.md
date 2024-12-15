@@ -54,5 +54,15 @@ script:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Pls%20donate%20script"))()
 ```
 
+Rotube life script
+
+Features:
+Auto farm
+Auto boost stats
+Auto rebirth
+script:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Rotube%20life%20script"))()
+```
 
 Other scripts are coming soon!
