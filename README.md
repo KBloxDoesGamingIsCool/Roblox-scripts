@@ -65,4 +65,16 @@ script:
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Rotube%20life%20script"))()
 ```
 
+Pet simulator 99 script
+
+Features:
+Auto farm
+Auto play game
+Auto click
+Auto place flags
+(More at script)
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Pet%20sim%2099%20(Owned%20by%20me)"))()
+```
+
 Other scripts are coming soon!
