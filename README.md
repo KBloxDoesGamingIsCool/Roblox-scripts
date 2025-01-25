@@ -1,6 +1,7 @@
 # KBlox Roblox script
 
 ⚠️SOME SCRIPTS ARE NOT OWNED BY ME, SOME OF THEM ARE JUST REUPLOADS⚠️
+(Im not a robot/bot)
 
 Welcome to the KBlox's scripts!
 
@@ -73,8 +74,20 @@ Auto play game
 Auto click
 Auto place flags
 (More at script)
+script:
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Pet%20sim%2099%20(Owned%20by%20me)"))()
+```
+
+Laundry Simulator script:
+
+Features:
+Auto Farm
+Auto collect gems
+(More at script)
+script:
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KBloxDoesGamingIsCool/Roblox-scripts/refs/heads/main/Laundry%20Simulator%20script"))()
 ```
 
 Other scripts are coming soon!
